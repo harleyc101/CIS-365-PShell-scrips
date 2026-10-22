@@ -1,0 +1,1 @@
+Get-CsTenantFederationConfiguration | Format-List ExternalAccessWithTrialTenants

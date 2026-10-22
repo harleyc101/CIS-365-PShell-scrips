@@ -11,7 +11,7 @@ Each control lives on its own branch. The branch's README explains why the contr
 
 | # | Control | Branch |
 | --- | --- | --- |
-| 1.1.1 | Ensure Administrative accounts are cloud-only (Automated) | [`ensure-admin-accounts-cloud-only`](../../tree/ensure-admin-accounts-cloud-only) |
+| 1.1.1 | Ensure Administrative accounts are cloud-only (Automated) | [`1.1.1-admin-accounts-cloud-only`](../../tree/1.1.1-admin-accounts-cloud-only) |
 | 1.1.3 | Ensure that between two and four global admins are designated (Automated) | [`1.1.3-global-admin-count`](../../tree/1.1.3-global-admin-count) |
 | 1.1.4 | Ensure administrative accounts use licenses with a reduced application footprint (Automated) | [`1.1.4-admin-reduced-license-footprint`](../../tree/1.1.4-admin-reduced-license-footprint) |
 | 1.2.1 | Ensure that only organizationally managed/approved public groups exist (Automated) | [`1.2.1-public-groups-approved`](../../tree/1.2.1-public-groups-approved) |

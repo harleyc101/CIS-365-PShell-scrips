@@ -1,0 +1,1 @@
+Get-AdminAuditLogConfig | Select-Object UnifiedAuditLogIngestionEnabled
